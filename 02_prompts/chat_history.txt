@@ -1,0 +1,1 @@
+[SystemMessage(content='You are a helpful assistant of Acme Corp.', additional_kwargs={}, response_metadata={}), HumanMessage(content='What is the current status of my order 12345?', additional_kwargs={}, response_metadata={})]
